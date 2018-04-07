@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+}
+h1{
+    font-family: 'Fascinate Inline', cursive;
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    margin: 0;
+}
+
+h2{
+    font-family: 'Homemade Apple', cursive;
+    color: violet;
+    transform: rotate(-30deg);
+    text-align: center;
+    font-size: 50px;
+    padding: 5px;
+    margin: 5px;
+}
+.image{
+    height: 200px;
+    width: 300px;
+    float: left;
+}
+
+.left{
+    border-style: dashed; 
+    color: white;
+   margin-left:200px;
+    width: 300px;
+    height: 400px;
+    font-size: 30px;    
+}
+.right{
+    float: right;
+    border-style: dashed; 
+    position: absolute;
+    top: 220px;
+    color: white;
+    font-size: 20px;   
+    margin-left:600px;
+    padding-top: 20px;
+    width: 500px;
+    height: 400px; 
+    text-align: center;
+    line-height: 10px;
+}
+
+
+
+p{
+    color: white;
+}
+
+
+
